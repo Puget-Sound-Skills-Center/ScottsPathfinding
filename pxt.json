@@ -1,13 +1,8 @@
 {
   "name": "ScottsPathfinding",
-  "description": "Tilemap pathfinding extension for MakeCode Arcade.",
-  "version": "0.0.1",
+  "description": "A* pathfinding for MakeCode Arcade",
+  "version": "1.0.0",
   "license": "MIT",
-  "dependencies": {
-    "device": "*"
-  },
-  "files": [
-    "pathfinding.ts"
-  ],
-  "public": true
+  "dependencies": {"device":"*"},
+  "files": ["pathfinding.ts","README.md"]
 }

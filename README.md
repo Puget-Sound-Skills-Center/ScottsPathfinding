@@ -1,6 +1,7 @@
-# Scott's Pathfinding
+# ScottsPathfinding
 
-A MakeCode Arcade extension that provides enemy following and movement utilities.
+Blocks:
+* enemy pathfind follow target speed
+* stop following
 
-Import URL:
-https://github.com/Puget-Sound-Skills-Center/ScottsPathfinding
+Uses tile based A* pathfinding to route around walls.
